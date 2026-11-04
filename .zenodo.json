@@ -1,0 +1,36 @@
+{
+  "title": "Slovenia: rent and landlord rules index 2026",
+  "upload_type": "dataset",
+  "version": "1.0",
+  "description": "Open, source-linked data on residential rent and landlord rules in Slovenia: deposits, rent increases, termination notice, lease terms and registration, with a primary-source link for every value. The data is provided as is, without any liability; check each value against its primary source. Project: https://izirento.com",
+  "creators": [
+    {
+      "name": "Gorok, Leonid",
+      "affiliation": "IziRento"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "keywords": [
+    "rent",
+    "tenancy law",
+    "landlord obligations",
+    "security deposit",
+    "open data",
+    "housing",
+    "Slovenia"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://izirento.com",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://github.com/izirento/izirento-slovenia-rent-index",
+      "relation": "isIdenticalTo",
+      "scheme": "url"
+    }
+  ]
+}
